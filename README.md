@@ -2,8 +2,8 @@
 Papers de los desarrolladores y creadores del proyecto de decantación accelator con lamelas
 Retrofit de un decantador accelator para mejora de la calidad y aumento de caudal.
 Eduardo Arozamena Ramos, Felipe González Perea, Emilio Arenas Fernández, Carlos Tomé Sánchez, David Martín García.
-1)	Canal de Isabel II, S.A. C/Santa Engracia, 125 Madrid. Tlf: 91-545.16.32 
-Contactos: earozamena@canal.madrid; interlocutor, earenas@canal.madrid
+
+
 La calidad del agua decantada afecta directamente a la duración de la carrera de lavado de los filtros de arena, e incluso a la calidad del agua de salida de éstos. El RD 3/2023 exige un control continuo sobre la turbidez de salida de agua filtrada, siendo interesante reducir el número de lavados y las consecuentes reducciones de calidad en los primeros minutos de carrera de lavado. 
 Los decantadores accelator se crearon en la década de los 60, y se basan en la recirculación, a una campana central, del fango ya decantado, donde se mezcla con el agua de entrada del decantador. El objetivo es unir el pequeño flóculo entrante con los ya decantados.
 Estos decantadores se vieron muy limitados al prohibirse la poliacrilamida, pues el caudal y calidad objetivo estaban supeditados a dicho reactivo, el cual mejoraba enormemente la decantación.
@@ -11,7 +11,7 @@ Los decantadores accelator presentan ciertas debilidades:
 -	La pérdida del fango de recirculación ocasiona una drástica reducción del rendimiento.
 -	El decantador no puede pararse sin perder, al menos, parte del fango de recirculación. 
 -	La puesta en funcionamiento del decantador, hasta alcanzar el máximo rendimiento, dura varios días.
-Canal de Isabel II ha estudiado e implementado varias modificaciones para mejorar el funcionamiento del decantador accelator nº2 de la ETAP de La Jarosa, con caudal nominal de 1.000 l/s. Los objetivos principales han sido:
+ ha estudiado e implementado varias modificaciones para mejorar el funcionamiento del decantador accelator nº2 de la ETAP de La Jarosa, con caudal nominal de 1.000 l/s. Los objetivos principales han sido:
 -	Reducción del tiempo de formación del fango de recirculación.
 -	Mejora de la calidad de salida, especialmente a partir de 600 l/s.
 -	Incremento del caudal real hasta el nominal.
@@ -69,7 +69,7 @@ El estudio ha obtenido resultados deseados, y un mayor conocimiento sobre el fun
 
 
 
-Área: Tratamiento de aguas del Guadarrama
+
 Fecha: 11 de diciembre de 2024
  
 HIBRIDACIÓN DE UN DECANTADOR ACCELATOR CON UN LAMELAR
